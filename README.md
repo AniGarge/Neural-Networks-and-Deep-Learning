@@ -1,1 +1,3 @@
-# Neural-Networks-and-Deep-Learning
+## Neural-Networks-and-Deep-Learning
+
+The first course among the five courses of deep learning specialization offered by DeepLearning.ai, this course gives a broad introduction to deep neural networks. It shows how the computations are performed at every different node of every layer of the neural network and all the related parameters involved. It also talks about different activation functions such as- Sigmoid, Hyperbolic Tangent (tanh), Rectified Linear Unit (ReLU) and their derivatives in order to compute gradients and perform gradient descent to optimize the loss function. It also makes use of the numpy library to perform elementwise operations, vectorization and computing the activations at different layers.
